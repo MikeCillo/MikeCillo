@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
   </a>
   <a href="mailto:m.cillo5@studenti.unisa.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Institutional Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=blue" alt="Institutional Email"/>
   </a>
 </div>
 
