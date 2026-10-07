@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Michele 👋</h1>
+  <h1>Michele Cillo</h1>
   <p><b>M.Sc. Student in Software Engineering & IT Management | Open Source Contributor | Tech PM</b></p>
 
   <!-- Bottoni Contatti e Sito -->
@@ -12,9 +12,9 @@
   <a href="mailto:mikecillo612@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
   </a>
-  <a href="mailto:m.cillo5@studenti.unisa.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=blue" alt="Institutional Email"/>
-  </a>
+  <a href="mailto:m.cillo@studenti.unisa.it">
+  <img src="https://img.shields.io/badge/Institutional_Email-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Institutional Email"/>
+</a>
 </div>
 
 <br />
